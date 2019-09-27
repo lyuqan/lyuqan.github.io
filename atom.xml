@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyuqan.com</id>
     <title>Lyuqan Design</title>
-    <updated>2019-09-27T16:47:20.340Z</updated>
+    <updated>2019-09-27T16:52:36.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyuqan.com"/>
     <link rel="self" href="https://lyuqan.com/atom.xml"/>
     <logo>https://lyuqan.com/images/avatar.png</logo>
     <icon>https://lyuqan.com/favicon.ico</icon>
     <rights>All rights reserved 2019, Lyuqan Design</rights>
+    <entry>
+        <title type="html"><![CDATA[品牌设计]]></title>
+        <id>https://lyuqan.com/post/pin-pai-she-ji</id>
+        <link href="https://lyuqan.com/post/pin-pai-she-ji">
+        </link>
+        <updated>2019-09-27T16:51:19.000Z</updated>
+    </entry>
     <entry>
         <title type="html"><![CDATA[界面设计]]></title>
         <id>https://lyuqan.com/post/jie-mian-she-ji</id>
