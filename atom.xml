@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lyuqan.com</id>
-    <title>Lyuqan Design</title>
-    <updated>2019-09-29T14:54:43.839Z</updated>
+    <title></title>
+    <updated>2019-09-29T14:54:52.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lyuqan.com"/>
     <link rel="self" href="https://lyuqan.com/atom.xml"/>
     <logo>https://lyuqan.com/images/avatar.png</logo>
     <icon>https://lyuqan.com/favicon.ico</icon>
-    <rights>All rights reserved 2019, Lyuqan Design</rights>
+    <rights>All rights reserved 2019, </rights>
     <entry>
         <title type="html"><![CDATA[产品]]></title>
         <id>https://lyuqan.com/post/chan-pin</id>
